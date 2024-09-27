@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: rgba(4, 172, 4, 0.849);
+}
+
+a{
+    color: red;
+}
+
+.important{
+    font-weight: bold
+}
+
+#unique{
+    color: purple;
+}
